@@ -1,18 +1,18 @@
 # site properties and page defaults
-title: Lab Website Template
-subtitle: by the Greene Lab
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: Grupo de Investigadores Latitud Cero
+subtitle: 
+description: Somos un grupo conformado por investigadores trabajando en diversas ramas de la física y otras ciencias afines.
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@your-lab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  youtube: YourLabChannel
+  email: ciencia.latitud0@gmail.com
+    #orcid: 0000-0001-8713-9213
+    #google-scholar: ETJoidYAAAAJ
+  github: ciencialatitud0
+  twitter: ciencialatitud0
+  youtube: @grupodeinvestigadoreslatit2513
 
 ### jekyll settings
 
