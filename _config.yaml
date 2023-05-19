@@ -1,18 +1,18 @@
 # site properties and page defaults
-title: Grupo de Investigadores Latitud Cero
-subtitle: Grupo de Investigadores Latitud Cero
-description: Somos un grupo conformado por investigadores trabajando en diversas ramas de la física y otras ciencias afines.
+title: ciencialatitud0
+subtitle: 
+description: An engaging 1-3 sentence description of your lab.
 header: none
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: ciencia.latitud0@gmail.com
+  email: contact@ciencialatitud0.com
     #orcid: 0000-0001-8713-9213
     #google-scholar: ETJoidYAAAAJ
   github: ciencialatitud0
   twitter: ciencialatitud0
-  youtube: @grupodeinvestigadoreslatit2513
+  youtube: ciencialatitud0
 
 ### jekyll settings
 
