@@ -1,9 +1,10 @@
 # site properties and page defaults
 title: Grupo de Investigadores Latitud Cero
-subtitle: 
+subtitle: Somos un grupo conformado por investigadores trabajando en diversas ramas de la física y otras ciencias afines.
 description: Somos un grupo conformado por investigadores trabajando en diversas ramas de la física y otras ciencias afines.
-header: images/background.jpg
+header: none
 footer: images/background.jpg
+baseurl: ""
 
 # site social media and other links
 links:
