@@ -1,9 +1,23 @@
 ---
 ---
 
-# ciencialatitud0's Website
+# Who are we?
 
-An engaging 1-3 sentence description of your lab.
+We are a group of researchers working on several branches of physics and related sciences. We seek to create connections between the academic world and the community through research projects and outreach activities. We believe that by promoting research and developing outreach projects between the Ecuadorian academia and its international counterpart we can promote the study of physics and other basic sciences in Ecuador.
+
+_Somos un grupo conformado por investigadores trabajando en diversas ramas de la física y otras ciencias afines. Buscamos crear conexiones entre el mundo académico y la comunidad a través de proyectos de investigación y jornadas de divulgación científica. Creemos que a través de proyectos de vinculación entre la academia ecuatoriana e internacional podremos promover el estudio de la física y fortalecer la ciencia básica en Ecuador._
+
+
+# What do we do?
+
+For the moment we focus on two types of projects:
+ * Research Projects
+ * Outreach Projects
+
+_Por el momento estamos enfocados en trabajar en dos tipos de proyectos:_
+ * _Proyectos de Investigación_
+ * _Proyectos de Divulgación_
+
 
 {% include section.html %}
 
