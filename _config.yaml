@@ -3,13 +3,14 @@ title: Latitud Cero Research & Outreach Group
 subtitle: Grupo de Investigadores Latitud Cero
 description: Somos un grupo conformado por investigadores trabajando en diversas ramas de la física y otras ciencias afines.
 header: images/background.png
-footer: images/background.jpg
+footer: images/background.png
 
 # site social media and other links
 links:
   email: ciencialatitud0@gmail.com
     #orcid: 0000-0001-8713-9213
     #google-scholar: ETJoidYAAAAJ
+  facebook: CienciaLatitud0
   github: ciencialatitud0
   twitter: ciencialatitud0
   youtube: ciencialatitud0
