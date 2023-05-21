@@ -1,8 +1,8 @@
 ---
-name: Hernan Andres Morales Navarrete
+name: Wladimir Banda
 image: images/photo.jpg
-description: 
-role: postdoc
+description: Profesor Yachay
+role: pi
 links:
     email: 
     twitter: 
@@ -23,6 +23,5 @@ links:
     linkedin:
 ---
 
-PostDoctoral Researcher - Zerial Group 
-Max-Planck-Institute of Molecular Cell Biology and Genetics 
-Dresden - Germany
+Longer description
+

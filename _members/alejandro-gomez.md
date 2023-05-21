@@ -1,7 +1,7 @@
 ---
-name: Hernan Andres Morales Navarrete
+name: Alejandro Gomez Espinosa
 image: images/photo.jpg
-description: 
+description: Visitor researcher
 role: postdoc
 links:
     email: 
@@ -23,6 +23,4 @@ links:
     linkedin:
 ---
 
-PostDoctoral Researcher - Zerial Group 
-Max-Planck-Institute of Molecular Cell Biology and Genetics 
-Dresden - Germany
+High Energy Physics 

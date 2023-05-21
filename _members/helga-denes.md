@@ -1,8 +1,8 @@
 ---
-name: Hernan Andres Morales Navarrete
+name: Henrry Osorio
 image: images/photo.jpg
 description: 
-role: postdoc
+role: pi
 links:
     email: 
     twitter: 
@@ -23,6 +23,4 @@ links:
     linkedin:
 ---
 
-PostDoctoral Researcher - Zerial Group 
-Max-Planck-Institute of Molecular Cell Biology and Genetics 
-Dresden - Germany
+Description

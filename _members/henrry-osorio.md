@@ -1,11 +1,27 @@
 ---
-name: Sarah Johnson
+name: Henrry Osorio
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+description: Profesor Titular, Grupo de Materiales Electrónicos y Magnéticos, Departamento de Física
+role: pi
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+    email: 
+    twitter: 
+    link:
+    website:
+    external:
+    home-page:
+    email:
+    phone:
+    address:
+    orcid:
+    google-scholar:
+    github:
+    twitter:
+    facebook:
+    instagram:
+    youtube:
+    linkedin:
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Escuela Politécnica Nacional
+Quito - Ecuador
