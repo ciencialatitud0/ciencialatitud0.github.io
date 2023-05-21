@@ -8,24 +8,15 @@ We are a group of researchers working on several branches of physics and related
 _Somos un grupo conformado por investigadores trabajando en diversas ramas de la física y otras ciencias afines. Buscamos crear conexiones entre el mundo académico y la comunidad a través de proyectos de investigación y jornadas de divulgación científica. Creemos que a través de proyectos de vinculación entre la academia ecuatoriana e internacional podremos promover el estudio de la física y fortalecer la ciencia básica en Ecuador._
 
 
-# What do we do?
-
-For the moment we focus on two types of projects:
- * Research Projects
- * Outreach Projects
-
-_Por el momento estamos enfocados en trabajar en dos tipos de proyectos:_
- * _Proyectos de Investigación_
- * _Proyectos de Divulgación_
-
-
 {% include section.html %}
 
-## Highlights
+
+## What do we do?
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+For the moment we focus on two types of projects:
+_Por el momento estamos enfocados en trabajar en dos tipos de proyectos:_
 
 {%
   include button.html
