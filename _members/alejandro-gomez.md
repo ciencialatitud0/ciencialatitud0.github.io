@@ -1,7 +1,7 @@
 ---
 name: Alejandro Gomez Espinosa
 image: images/photo.jpg
-description: Visitor researcher
+description: High Energy Physics
 role: postdoc
 links:
     email: 

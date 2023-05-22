@@ -1,7 +1,7 @@
 ---
 name: Luis Manzanillas 
 image: images/photo.jpg
-description: GERDA/LEGEND experiments
+description: High Energy Physics
 role: pi
 links:
     email: 

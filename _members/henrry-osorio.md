@@ -1,7 +1,7 @@
 ---
 name: Henrry Osorio
 image: images/photo.jpg
-description: Profesor Titular, Grupo de Materiales Electrónicos y Magnéticos, Departamento de Física
+description: Nanomaterials
 role: pi
 links:
     email: 

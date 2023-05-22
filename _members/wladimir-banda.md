@@ -1,7 +1,7 @@
 ---
 name: Wladimir Banda
 image: images/photo.jpg
-description: Profesor Yachay
+description: Astrophysics
 role: pi
 links:
     email: 

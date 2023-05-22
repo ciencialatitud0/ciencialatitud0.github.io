@@ -1,7 +1,7 @@
 ---
 name: Hernan Andres Morales Navarrete
 image: images/photo.jpg
-description: 
+description: Molecular Cell Biology
 role: postdoc
 links:
     email: 

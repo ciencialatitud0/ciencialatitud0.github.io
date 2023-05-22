@@ -1,12 +1,28 @@
 ---
 name: Lupe Villegas
 image: images/photo.jpg
+description: Optics
 role: phd 
 aliases:
   - L. Villegas
 links:
-  home-page: 
-  orcid: 
+    email: 
+    twitter: 
+    link:
+    website:
+    external:
+    home-page:
+    email:
+    phone:
+    address:
+    orcid:
+    google-scholar:
+    github:
+    twitter:
+    facebook:
+    instagram:
+    youtube:
+    linkedin:
 ---
 
 Predoctoral Researcher - Visual Optics and Biophotonics Lab

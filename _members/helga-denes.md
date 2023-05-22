@@ -1,7 +1,7 @@
 ---
 name: Henrry Osorio
 image: images/photo.jpg
-description: 
+description: Astrophysics
 role: pi
 links:
     email: 

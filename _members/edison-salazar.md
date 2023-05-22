@@ -1,7 +1,7 @@
 ---
 name: Edison Salazar
 image: images/photo.jpg
-description: Postdoctoral researcher - Applied Quantum Algorithms (AQA) group Lorentz Institute for Theoretical Physics, Leiden University
+description: Applied Quantum Algorithms 
 role: postdoc
 links:
     email: 
