@@ -35,8 +35,6 @@ _Por el momento estamos enfocados en trabajar en dos tipos de proyectos: Investi
   image="images/photo.jpg"
   link="projects"
   title="Our Projects"
-  flip=true
-  style="bare"
   text=text
 %}
 
@@ -59,6 +57,8 @@ _Por el momento estamos enfocados en trabajar en dos tipos de proyectos: Investi
   image="images/photo.jpg"
   link="research"
   title="Our Research"
+  flip=true
+  style="bare"
   text=text
 %}
 
