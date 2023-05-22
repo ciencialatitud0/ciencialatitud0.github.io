@@ -1,6 +1,6 @@
 ---
 name: Alejandro Gomez Espinosa
-image: images/photo.jpg
+image: images/members/alejandro-gomez.png
 description: High Energy Physics
 role: postdoc
 links:

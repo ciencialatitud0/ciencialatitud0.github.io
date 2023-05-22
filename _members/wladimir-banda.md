@@ -1,6 +1,6 @@
 ---
 name: Wladimir Banda
-image: images/photo.jpg
+image: images/members/wladimir-banda.png
 description: Astrophysics
 role: pi
 links:

@@ -1,6 +1,6 @@
 ---
 name: Edison Salazar
-image: images/photo.jpg
+image: images/members/edison-salazar.png
 description: Applied Quantum Algorithms 
 role: postdoc
 links:

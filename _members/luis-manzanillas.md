@@ -1,6 +1,6 @@
 ---
 name: Luis Manzanillas 
-image: images/photo.jpg
+image: images/members/luis-manzanillas.png
 description: High Energy Physics
 role: pi
 links:

@@ -1,6 +1,6 @@
 ---
 name: Lupe Villegas
-image: images/photo.jpg
+image: images/members/lupe-villegas.png
 description: Optics
 role: phd 
 aliases:

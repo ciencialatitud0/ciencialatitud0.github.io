@@ -1,6 +1,6 @@
 ---
 name: Henrry Osorio
-image: images/photo.jpg
+image: images/members/henrry-osorio.png
 description: Nanomaterials
 role: pi
 links:

@@ -1,6 +1,6 @@
 ---
-name: Henrry Osorio
-image: images/photo.jpg
+name: Helga Denes
+image: images/members/helga-denes.png
 description: Astrophysics
 role: pi
 links:
