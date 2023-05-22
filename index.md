@@ -15,31 +15,9 @@ _Somos un grupo conformado por investigadores trabajando en diversas ramas de la
 
 {% capture text %}
 
-For the moment we focus on two types of projects:
-_Por el momento estamos enfocados en trabajar en dos tipos de proyectos:_
+For the moment we focus on two types of projects: Research and Outreach.
 
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+_Por el momento estamos enfocados en trabajar en dos tipos de proyectos: Investigación y divulgación._
 
 {%
   include button.html
@@ -64,7 +42,31 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+{%
+  include button.html
+  link="research"
+  text="See our publications"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="research"
+  title="Our Research"
+  text=text
+%}
+
+{% capture text %}
+
+Learn more about us.
+
+_Quieres saber más sobre nosotros_
 
 {%
   include button.html
@@ -79,7 +81,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.png""
   link="team"
   title="Our Team"
   text=text
