@@ -81,7 +81,7 @@ _Quieres saber más sobre nosotros_
 
 {%
   include feature.html
-  image="images/team.png""
+  image="images/team.png"
   link="team"
   title="Our Team"
   text=text
