@@ -1,12 +1,12 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
+- title: EPIC 1 
+  subtitle: 
+  group: outreach 
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://sites.google.com/d/1qeTPe5dlVP3NVw_HvojCXS6MvtqYHk4u/p/172evTLd1fq7jlgWFBEz8ZFlZ7VpYaZRr
+  description: Escuela de Programación para Investigación Científica 1: de Datos Primarios a Resultados Físicos
+  repo: ciencialatitud0/EPIC1
   tags:
-    - resource
+    - EPIC school
 
 - title: Cool Package
   subtitle: a subtitle
