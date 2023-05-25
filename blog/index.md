@@ -7,8 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Here we collect a list of articles that can be useful for students or young researchers. 
+
+_Aquí encontrarás articulos de interés para estudiantes y nuevos investigadores._
 
 {% include section.html %}
 
