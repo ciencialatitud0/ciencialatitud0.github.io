@@ -32,7 +32,7 @@ _Por el momento estamos enfocados en trabajar en dos tipos de proyectos: Investi
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/projects.png"
   link="projects"
   title="Our Projects"
   text=text
@@ -54,7 +54,7 @@ _Por el momento estamos enfocados en trabajar en dos tipos de proyectos: Investi
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.png"
   link="research"
   title="Our Research"
   flip=true
