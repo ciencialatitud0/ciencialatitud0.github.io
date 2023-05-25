@@ -41,11 +41,11 @@ _Agradecemos la colaboración de los siguientes investigadores:_
 
 {% include section.html %}
 
-{% capture content %}
-
 ## Institutions
 
 We thank the collaboration and sponsorship of the following institutions:
+
+{% capture content %}
 
 {% include figure.html image="images/ICTP.svg" link="https://www.ictp.it/" %}
 
