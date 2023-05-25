@@ -1,7 +1,7 @@
 - title: EPIC 1 
   subtitle: 
   group: outreach 
-  image: images/photo.jpg
+  image: images/projects/EPIC1.png
   link: https://sites.google.com/view/ciencia-latitud-0/EPIC/EPIC-1?authuser=0
   description: Escuela de Programación para Investigación Científica 1 - de Datos Primarios a Resultados Físicos
   repo: ciencialatitud0/EPIC1
@@ -11,7 +11,7 @@
 - title: EPIC 2
   subtitle: 
   group: outreach
-  image: images/photo.jpg
+  image: images/projects/EPIC2.png
   link: https://sites.google.com/view/ciencia-latitud-0/EPIC/EPIC-2?authuser=0
   description: Escuela de Programación para Investigación Científica 2 - un viaje a través de la física y la computación
   repo: ciencialatitud0/EPIC2
@@ -20,6 +20,7 @@
 
 - title: Ciclo de Conferencias 2020
   subtitle: 
+  group: outreach
   image: images/photo.jpg
   link: https://sites.google.com/view/ciencia-latitud-0/eventos/conferencias-2020?authuser=0
   description: Ciclo de conferencias online en diferentes tópicos de la física.
