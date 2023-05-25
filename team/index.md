@@ -18,17 +18,36 @@ _Somos un grupo conformado por investigadores trabajando en diversas ramas de la
 
 {% include section.html background="images/background.png" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+## External collaborators
+
+We appreciate the collaboration of the following researchers:
+
+_Agradecemos la colaboración de los siguientes investigadores:_
+
+ * Luz Ángela García, Universidad ECCI, Colombia
+ * Daniel Čapek, University of Konstanz, Germany
+ * Genevieve Shattow, ThroughPut.ai, United States
+ * Diego Morales, Yachay Tech University, Ecuador
+ * María José Benítez, Escuela Politécnica Nacional, Ecuador
+ * Maximilian Menger, University of Groningen, The Netherlands
+ * Mayra Pallaroso, SOLCA Quito, Ecuador
+ * Albert Thie, University of Groningen, The Netherlands
+ * Cristina Mantilla, Fermilab, United States
+ * Oscar Chimborazo, Yachay Tech University, Ecuador
+ * Cloé Girard-Carillo, Johannes Gutenberg University, Mainz, Germany
+ * Jorge Ontaneda, Queen Mary University of London, United Kingdom
+ * Sylvain Vanneste, Laboratoire de l'Accélérateur Linéaire, France
+ * Leonardo Basile, Escuela Politécnica Nacional, Ecuador
 
 {% include section.html %}
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+## Institutions
+
+We thank the collaboration and sponsorship of the following institutions:
+
+{% include figure.html image="images/ICTP.svg" link="https://www.ictp.it/" %}
 
 {% endcapture %}
 
