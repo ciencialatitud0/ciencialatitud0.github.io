@@ -86,3 +86,7 @@ _Quieres saber más sobre nosotros_
   title="Our Team"
   text=text
 %}
+
+If you want to see our old website, follow the [link](https://sites.google.com/view/ciencia-latitud-0/home?authuser=0).
+
+_Si quieres visitar nuestra página anterior, sigue el [enlace](https://sites.google.com/view/ciencia-latitud-0/home?authuser=0)._
