@@ -1,1 +1,67 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-05-25T21:45:56+00:00</updated><id>/feed.xml</id><title type="html">Latitud Cero Research &amp;amp; Outreach Group</title><subtitle>Somos un grupo conformado por investigadores trabajando en diversas ramas de la física y otras ciencias afines.</subtitle><entry><title type="html">Example post 3</title><link href="/2023/02/23/example-post-3.html" rel="alternate" type="text/html" title="Example post 3" /><published>2023-02-23T00:00:00+00:00</published><updated>2023-05-25T21:45:11+00:00</updated><id>/2023/02/23/example-post-3</id><content type="html" xml:base="/2023/02/23/example-post-3.html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>]]></content><author><name>john-doe</name></author><category term="biology," /><category term="medicine" /><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></summary></entry><entry><title type="html">Example post 2</title><link href="/2021/09/30/example-post-2.html" rel="alternate" type="text/html" title="Example post 2" /><published>2021-09-30T00:00:00+00:00</published><updated>2023-05-25T21:45:11+00:00</updated><id>/2021/09/30/example-post-2</id><content type="html" xml:base="/2021/09/30/example-post-2.html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>]]></content><author><name>jane-smith</name></author><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></summary></entry><entry><title type="html">Example post 1</title><link href="/2019/01/07/example-post-1.html" rel="alternate" type="text/html" title="Example post 1" /><published>2019-01-07T00:00:00+00:00</published><updated>2023-05-25T21:45:11+00:00</updated><id>/2019/01/07/example-post-1</id><content type="html" xml:base="/2019/01/07/example-post-1.html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>]]></content><author><name>sarah-johnson</name></author><category term="biology" /><category term="medicine" /><category term="big data" /><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-05-25T22:06:17+00:00</updated><id>/feed.xml</id><title type="html">Latitud Cero Research &amp;amp; Outreach Group</title><subtitle>Somos un grupo conformado por investigadores trabajando en diversas ramas de la física y otras ciencias afines.</subtitle><entry><title type="html">Información sobre Escuelas de Verano, Simposios y Conferencias en física</title><link href="/2023/05/25/post-1.html" rel="alternate" type="text/html" title="Información sobre Escuelas de Verano, Simposios y Conferencias en física" /><published>2023-05-25T00:00:00+00:00</published><updated>2023-05-25T22:05:27+00:00</updated><id>/2023/05/25/post-1</id><content type="html" xml:base="/2023/05/25/post-1.html"><![CDATA[<p>En este espacio incluimos enlaces a las principales bases de datos de escuelas de verano, simposios y conferencias dirigidas a físic@s profesionales y estudiantes de pre y post-grado:</p>
+
+<p>En Astronomía y Astrofísica:</p>
+
+<ul>
+  <li>Este enlace de la “Canadian Astronomy Data Centre” contiene información de los eventos científicos en astronomía y astrofísica más importantes del año. Los comités organizadores publican nuevos anuncios todo el tiempo en esta web, que se actualiza diariamente. Los enlaces se publican conjuntamente con información de los formatos de los eventos, fechas importantes, etc.</li>
+</ul>
+
+<p>Mas información en el siguiente link: https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/</p>
+
+<ul>
+  <li>Este es otro enlace donde se publican las conferencias organizadas con el soporte de la Unión Astronómica Internacional (IAU, en inglés):</li>
+</ul>
+
+<p>Mas información en el siguiente link: https://www.iau.org/science/meetings/future/</p>]]></content><author><name>latitud0</name></author><category term="recursos estudiantes" /><summary type="html"><![CDATA[En este espacio incluimos enlaces a las principales bases de datos de escuelas de verano, simposios y conferencias dirigidas a físic@s profesionales y estudiantes de pre y post-grado:]]></summary></entry><entry><title type="html">¿Cómo aplicar a programas de post-grado en física?</title><link href="/2023/05/25/post-2.html" rel="alternate" type="text/html" title="¿Cómo aplicar a programas de post-grado en física?" /><published>2023-05-25T00:00:00+00:00</published><updated>2023-05-25T22:05:27+00:00</updated><id>/2023/05/25/post-2</id><content type="html" xml:base="/2023/05/25/post-2.html"><![CDATA[<p>En este espacio mencionamos algunos detalles generales de los requerimientos que existen al aplicar a programas de investigación en física (e.g. programas de post-grado: MSc o PhD).</p>
+
+<h2 id="requisitos">Requisitos:</h2>
+
+<ul>
+  <li>Usualmente necesitan haber pasado el examen TOEFL o IELTS de inglés antes de iniciar sus aplicaciones.</li>
+  <li>Deben preparar un CV corto y conciso que indique su nivel de estudios, experiencia profesional, idiomas, y participación en eventos científicos.</li>
+  <li>También es usual que les soliciten de 2 a 3 cartas de recomendación de sus Profesores de la Universidad. Las cartas son muy importantes y deben ser personalizadas.</li>
+  <li>Suelen pedirles que escriban una carta de motivación, donde explican por qué están aplicando al programa y también detallan sus intereses futuros.</li>
+  <li>En algunos casos específicos pueden también solicitarles aprobar exámenes adicionales como el GRE general, el GRE de física, o pruebas similares.</li>
+</ul>
+
+<h2 id="el-proceso-de-aplicación">El proceso de aplicación:</h2>
+
+<p>El proceso de aplicación toma generalmente de 6 a 12 meses y consta de varias etapas:</p>
+
+<ul>
+  <li>Contacto inicial con un grupo de investigación.</li>
+  <li>Preparación de documentos.</li>
+  <li>Envío de documentos y revisión por parte de un panel de selección en la Universidad/Centro de Investigación.</li>
+  <li>Anuncio de la ‘lista corta’ de participantes pre-seleccionad@s e invitación a una entrevista (a veces en persona, otras veces via remota).</li>
+  <li>Anuncio de la lista final de candidat@s seleccionad@s y período de aceptación. Para puestos de MSc/PhD suelen darles entre 1 y 3 meses para decidir si aceptan la oferta o no.</li>
+</ul>
+
+<h2 id="sobre-las-becas">Sobre las becas:</h2>
+
+<p>En algunos casos la beca es automáticamente asignada a estudiantes que han sido aceptad@s en un programa de MSc y PhD. Deben consultar en cada Instituto cuál es el procedimiento a seguir.</p>
+
+<p>En otros casos las aplicaciones a las becas deben hacerse por separado. El proceso es entonces similar al anterior. Deben enviar los mismos documentos a la agencia de becas y esperar el resultado.  En este caso, tienen muchas más oportunidades de recibir una beca si ya cuentan con una carta de aceptación o de respaldo de algún grupo de investigación.</p>
+
+<h2 id="enlaces-importantes">Enlaces importantes:</h2>
+
+<p>En los siguientes enlaces pueden encontrar anuncios de puestos de post-grado en diversas ramas de física:</p>
+
+<h3 id="en-astronomía-y-astrofísica">En Astronomía y Astrofísica:</h3>
+
+<ul>
+  <li>Varias Universidades y Centros de Investigación con programas de Astrofísica publican anuncios en este enlace de la Sociedad Americana de Astronomía (AAS). La página se actualiza cada semana con nuevos anuncios. Cada anuncio indica los documentos necesarios para la aplicación y una fecha límite de recepción de documentos.</li>
+</ul>
+
+<p>Mas información en el link: https://jobregister.aas.org/#PreDocGrad</p>
+
+<ul>
+  <li>También suelen publicar anuncios en esta página de Física de Altas Energías (HEP). Aquí los puestos están más relacionados a Astro-partículas o Física de Rayos Cósmicos:</li>
+</ul>
+
+<p>Mas información en el link: https://inspirehep.net/jobs?sort=mostrecent&amp;size=25&amp;page=1&amp;rank=PHD</p>
+
+<ul>
+  <li>Por último, esta página de la Sociedad Alemana de Astronomía contiene anuncios de oportunidades dentro de Alemania. El formato es parecido al de AAS:</li>
+</ul>
+
+<p>Mas información en el link: https://www.astronomische-gesellschaft.de/en/activities/jobregister</p>]]></content><author><name>latitud0</name></author><summary type="html"><![CDATA[En este espacio mencionamos algunos detalles generales de los requerimientos que existen al aplicar a programas de investigación en física (e.g. programas de post-grado: MSc o PhD).]]></summary></entry></feed>
