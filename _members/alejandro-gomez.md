@@ -5,7 +5,7 @@ description: High Energy Physics
 role: postdoc
 links:
     email: alefisico@gmail.com
-    website: alefisico.github.io
+    home-page: alefisico.github.io
     orcid: 0000-0002-9443-7769
     google-scholar: AV7eGo8AAAAJ
     github: alefisico
