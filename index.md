@@ -22,8 +22,8 @@ _Estamos organizando la tercera escuela EPIC en 2023. Si quieres saber más de l
 
 {%
   include button.html
-  link="research"
-  text="News"
+  link="https://ciencialatitud0.github.io/EPIC_3/intro.html"
+  text="EPIC 3"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
