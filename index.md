@@ -8,10 +8,37 @@ We are a group of researchers working on several branches of physics and related
 _Somos un grupo conformado por investigadores trabajando en diversas ramas de la física y otras ciencias afines. Buscamos crear conexiones entre el mundo académico y la comunidad a través de proyectos de investigación y jornadas de divulgación científica. Creemos que a través de proyectos de vinculación entre la academia ecuatoriana e internacional podremos promover el estudio de la física y fortalecer la ciencia básica en Ecuador._
 
 
+
 {% include section.html %}
 
 
 ## What do we do?
+
+{% capture text %}
+
+We are organizing the third EPIC School in 2023. If you want to know more about it, follow this [link](https://ciencialatitud0.github.io/EPIC_3/intro.html).
+
+_Estamos organizando la tercera escuela EPIC en 2023. Si quieres saber más de la escuela, sigue el [enlace](https://ciencialatitud0.github.io/EPIC_3/intro.html)._
+
+{%
+  include button.html
+  link="research"
+  text="News"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/research.png"
+  link="https://ciencialatitud0.github.io/EPIC_3/intro.html"
+  title="News"
+  style="bare"
+  text=text
+%}
 
 {% capture text %}
 
@@ -35,32 +62,10 @@ _Por el momento estamos enfocados en trabajar en dos tipos de proyectos: Investi
   image="images/projects.png"
   link="projects"
   title="Our Projects"
+  flip=true
   text=text
 %}
 
-{% capture text %}
-
-
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/research.png"
-  link="research"
-  title="Our Research"
-  flip=true
-  style="bare"
-  text=text
-%}
 
 {% capture text %}
 
@@ -87,12 +92,12 @@ _Quieres saber más sobre nosotros_
   text=text
 %}
 
-## News
+## Socials
 
 <!-- Twitter embeds from https://publish.twitter.com/ -->
 
-<a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/ciencialatitud0?ref_src=twsrc%5Etfw">Tweets by CienciaLatitud0</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {:.center}
+<a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/ciencialatitud0?ref_src=twsrc%5Etfw">Tweets by CienciaLatitud0</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <a href="https://twitter.com/ciencialatitud0?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ciencialatitud0</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <a href="https://twitter.com/intent/tweet?screen_name=ciencialatitud0&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @ciencialatitud0</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -1,10 +1,10 @@
-- title: EPIC 1 
+- title: EPIC 3
   subtitle: 
-  group: outreach 
-  image: images/projects/EPIC1.png
-  link: https://sites.google.com/view/ciencia-latitud-0/EPIC/EPIC-1?authuser=0
-  description: Escuela de Programación para Investigación Científica 1 - de Datos Primarios a Resultados Físicos
-  repo: ciencialatitud0/EPIC1
+  group: outreach
+  image: images/logo.png
+  link: https://ciencialatitud0.github.io/EPIC_3/intro.html
+  description: Escuela de Programación para Investigación Científica 3 
+  repo: ciencialatitud0/EPIC_3
   tags:
     - EPIC school
 
@@ -14,7 +14,17 @@
   image: images/projects/EPIC2.png
   link: https://sites.google.com/view/ciencia-latitud-0/EPIC/EPIC-2?authuser=0
   description: Escuela de Programación para Investigación Científica 2 - un viaje a través de la física y la computación
-  repo: ciencialatitud0/EPIC2
+  repo: ciencialatitud0/EPIC_2
+  tags:
+    - EPIC school
+
+- title: EPIC 1 
+  subtitle: 
+  group: outreach 
+  image: images/projects/EPIC1.png
+  link: https://sites.google.com/view/ciencia-latitud-0/EPIC/EPIC-1?authuser=0
+  description: Escuela de Programación para Investigación Científica 1 - de Datos Primarios a Resultados Físicos
+  repo: ciencialatitud0/EPIC_1
   tags:
     - EPIC school
 
