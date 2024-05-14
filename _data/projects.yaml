@@ -1,3 +1,13 @@
+- title: EPIC 4
+  subtitle: 
+  group: outreach
+  image: images/logo.png
+  link: https://ciencialatitud0.github.io/EPIC_4/intro.html
+  description: Escuela de Programación para Investigación Científica 4 
+  repo: ciencialatitud0/EPIC_4
+  tags:
+    - EPIC school
+    
 - title: EPIC 3
   subtitle: 
   group: outreach
